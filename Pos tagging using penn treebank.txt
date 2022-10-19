@@ -1,0 +1,19 @@
+Typically/RB Coronaviruses/NNS present/VB with/IN respiratory/JJ symptoms/NN./. 
+
+The/DT WHO/NNP has/VBZ issued/VBD and/CC published/VBD advice/NN for/IN these/DT high-risk/JJ groups/NNS and/CC community/JJ support/NN./.
+
+A/DT COVID-19/NN diagnostic/JJ testing/JJ kit/NN has/VBZ been/VBN developed/VBD and/CC is/VBZ available/JJ in/IN clinical/JJ testing/JJ labs/NNS./.
+
+Stay/VB up/RP to/TO date/NN with/IN the/DT latest/JJ information/NN on/IN the/DT COVID-19/NN outbreak/NN through/IN WHO/NNP updates/NNS or/CC your/PRP$ local/JJ and/CC national/JJ public/JJ health/JJ authority/NN./.
+
+Perform/VB hand/JJ hygiene/NN frequently/RB with/IN an/DT alcohol-based/JJ hand/NN rub/NN if/CC your/PRP$ hands/NNS are/VBP not/RB visibly/RB dirty/NN or/CC with/IN soap/NN and/CC water/NN if/CC hands/NNS are/VBP dirty/JJ./.
+
+Avoid/VB touching/NN your/PRP$ eyes/NNS,/. nose/NN and/CC mouth/NN./.
+
+Practice/VB respiratory/JJ hygiene/NN by/IN coughing/NN or/CC sneezing/NN into/IN a/DT bent/JJ elbow/NN or/CC tissue/NN and/CC then/RB immediately/JJ disposing/NN of/IN the/DT tissue/NN./.
+
+Wear/VB a/DT medical/JJ mask/NN if/CC you/PRP have/VBZ respiratory/JJ symptoms/NNS and/CC performing/VBG hand/NN hygiene/NN after/IN disposing/NN of/IN the/DT mask/NN./.
+
+Maintain/VB social/JJ distancing/NN (/(approximately/JJ 2/LS meters/NNS)/) from/IN individuals/NNS with/IN respiratory/JJ symptoms/NNS./.
+
+If/CC you/PRP have/VBZ a/DT fever/NN,/. cough/NN and/CC difficulty/JJ breathing/NN seek/VB medical/JJ care/NN./.
