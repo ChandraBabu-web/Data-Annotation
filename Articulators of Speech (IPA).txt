@@ -1,0 +1,74 @@
+Name:D.Chandra Babu
+University Of Hyderabad
+------------------------------------------------------------------------------------------------------------------------------
+
+
+A list of active and passive articulators for each place of articulation with Transcription
+
+
+A) Bilabials :
+Active Articulator(s) : Upper and Lower lips
+Passive Articulator(s) : None
+Examples : /p/ as in /pɛn/ ‘pen’
+/b/ as in /bɔːl/ ‘ball’
+
+B) Labiodental :
+Active Articulator(s) : Lower lip
+Passive Articulator(s) : Upper front teeth
+Examples : /f/ as in /fɪlm/ ‘film
+/v/ as in /vəʊt/ ‘vote’
+
+C) Dental :
+Active Articulator(s) : Tongue tip
+Passive Articulator(s) : Upper front teeth
+Examples : /θ/ as in /θɔːt/ ‘thought’
+/ð/ as in /ðeɪ/ ‘they’
+
+D) Alveolar :
+Active Articulator(s) : Tongue tip
+Passive Articulator(s) : Alveolar ridge
+Examples : /t/ as in /tɛː/ ‘tear’
+/d/ as in /dɛməʊ/ ‘demo’
+
+E) Postalveolar :
+Active Articulator(s) : Tongue blade
+Passive Articulator(s) : Region behind the alveolar ridge
+Examples : /ʃ/ as in /ˈʃaʊə/ ‘shower’
+/ʒ/ as in /tɛləvɪʒən/
+
+F) Retroflex :
+Active Articulator(s) : Tip of the tongue curved back
+Passive Articulator(s) : Hard palate
+Examples : /ʈ/ as in /ʈaːpuˑ/ ‘island’ (Hindi)
+/ɖ/ as in /ɖəbba/ ‘box’ (Hindi)
+
+G) Palatal :
+Active Articulator(s) : Tongue front
+Passive Articulator(s) : Hard palate
+Examples : /j/ as in /jɛs/ ‘yes’
+/ɲ/ as in /baɲam/ ‘arrow’ (Telugu)
+
+H) Velar :
+Active Articulator(s) : Tongue back (Tongue body) and Soft palate
+Passive Articulator(s) : None
+Examples : /k/ as in /kɪŋ/ ‘king’
+/g/ as in /ɡaŋ/ ‘gang’
+
+I) Uvular :
+Active Articulator(s) : Tongue back (Tongue body)
+Passive Articulator(s) : Uvula
+Examples : /R/ as in /paˈʀi/ ‘Paris’
+
+J) Pharyngeal :
+Active Articulator(s) : Tongue root
+Passive Articulator(s) : Pharyngeal wall
+Examples : /ħ/ as in /ɔħɔm/ ‘Assam’
+
+K) Glottal :
+Active Articulator(s) : Vocal folds
+Passive Articulator(s) : None (the vocal folds moves towards each other)
+Examples : /ʔ/ as in /kɪʔn/ ‘kitten’
+/h/ as in /haʊs/ ‘house’
+
+
+
